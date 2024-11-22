@@ -1,0 +1,10 @@
+header {
+  width:100vw;
+  position: fixed;
+  top:0;
+  background-color:var(--brand-secondary-color);
+  opacity: 0.8;
+  height:auto;
+  /* background-blend-mode: color-burn; */
+  backdrop-filter: blur(15px);
+}

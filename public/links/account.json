@@ -1,0 +1,19 @@
+{
+  "Account": [
+    {
+      "id": 1,
+      "name": "Manage Your Apple Account",
+      "route": "/apple-account"
+    },
+    {
+      "id": 2,
+      "name": "Apple Store Account",
+      "route": "/apple-store-account"
+    },
+    {
+      "id": 3,
+      "name": "iCloud com",
+      "route": "/icloud-com"
+    }
+  ]
+}

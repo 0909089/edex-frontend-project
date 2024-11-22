@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "type": "video",
+    "mainTitle": "Apple immersive",
+    "productTitle": "The Amazing",
+    "productSubtitle": "Spider-man",
+    "productDescription": "A thrilling superhero film about Spider-Man's origins, struggles, and villainous confrontations.",
+    "contentAlignment": "center",
+    "src": "./products/peakpx.jpg"
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Iphone 16 PRO",
+    "productDescription": "The iPhone 16 Pro features an advanced A18 Pro chip, a 5x optical zoom camera, and longer battery life, making it powerful and versatile.",
+    "contentAlignment": "start",
+    "src": "./products/iphone-16.png"
+  },
+  {
+    "id": 3,
+    "type": "image",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Ipad Air",
+    "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
+    "contentAlignment": "end",
+    "src": "./products/ipad-air.png"
+  },
+  {
+    "id": 4,
+    "type": "video",
+    "mainTitle": "Apple immersive",
+    "productTitle": "",
+    "productSubtitle": "John Wick 3",
+    "productDescription": "Relentless assassin battles global bounty hunters for survival and redemption.",
+    "contentAlignment": "start",
+    "src": "./products/john-wick.png"
+  },
+  {
+    "id": 5,
+    "type": "image",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Ipad Air",
+    "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
+    "contentAlignment": "center",
+    "src": "./products/ipad-air.png"
+  },
+  {
+    "id": 6,
+    "type": "image",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Ipad Air",
+    "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
+    "contentAlignment": "end",
+    "src": "./products/ipad-air.png"
+  },
+  {
+    "id": 7,
+    "type": "image",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Mac Book",
+    "productDescription": "Powerful Mac book with M2 chip, vibrant display, productivity features.",
+    "contentAlignment": "left",
+    "src": "./products/mac-book.png"
+  },
+    {
+      "id": 8,
+      "type": "video",
+      "mainTitle": "Apple immersive",
+      "productTitle": "",
+      "productSubtitle": "John Wick 3",
+      "productDescription": "Relentless assassin battles global bounty hunters for survival and redemption.",
+      "contentAlignment": "end",
+      "src": "./products/john-wick.png"
+    },
+    {
+      "id": 9,
+      "type": "image",
+      "mainTitle": "",
+      "productTitle": "",
+      "productSubtitle": "Ipad Air",
+      "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
+      "contentAlignment": "center",
+      "src": "./products/ipad-air.png"
+    }
+]

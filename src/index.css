@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root {
+  font-family: "Funnel Display", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(0, 0, 0, 0.87);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --brand-primary-color:#fafafa;
+  --brand-secondary-color:#f5f5f7;
+
+  --text-primary-color:#1d1d1f;
+  --text-secondary-color:#6e6e73;
+
+  --primary-btn-bg:#0077ed;
+  --secondary-btn-bg:var(--brand-primary-color);
+
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  width:100vw;
+  height:auto;
+  min-height:100vh;
+  margin:0;
+  padding:0;
+  position:relative;
+  overflow-x: hidden;
+}
+
+.wrapper {
+  width:100%;
+  max-width:1024px;
+  min-width:1024px;
+}

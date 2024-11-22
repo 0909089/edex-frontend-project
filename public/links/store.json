@@ -1,0 +1,64 @@
+{
+  "Apple Store": [
+    {
+      "id": 1,
+      "name": "Find a Store",
+      "route": "/apple-account"
+    },
+    {
+      "id": 2,
+      "name": "Genius Bar",
+      "route": "/apple-store-account"
+    },
+    {
+      "id": 3,
+      "name": "Today At Apple",
+      "route": "/icloud-com"
+    },
+    {
+      "id": 4,
+      "name": "Group Reservations",
+      "route": "/apple-account"
+    },
+    {
+      "id": 5,
+      "name": "Apple Camp",
+      "route": "/apple-store-account"
+    },
+    {
+      "id": 6,
+      "name": "Apple Store App",
+      "route": "/icloud-com"
+    },
+    {
+      "id": 7,
+      "name": "Certified Refurbished",
+      "route": "/apple-account"
+    },
+    {
+      "id": 8,
+      "name": "Apple Trade In",
+      "route": "/apple-store-account"
+    },
+    {
+      "id": 9,
+      "name": "Financing",
+      "route": "/icloud-com"
+    },
+    {
+      "id": 10,
+      "name": "Carrier Deals At Apple",
+      "route": "/apple-account"
+    },
+    {
+      "id": 11,
+      "name": "Order Status",
+      "route": "/apple-store-account"
+    },
+    {
+      "id": 12,
+      "name": "Shopping Help",
+      "route": "/icloud-com"
+    }
+  ]
+}

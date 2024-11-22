@@ -1,0 +1,24 @@
+{
+  "For Healthcare": [
+    {
+      "id": 1,
+      "name": "Apple in Healthcare",
+      "route": "/apple-business"
+    },
+    {
+      "id": 2,
+      "name": "Mac in Healthcare",
+      "route": "/shop/business"
+    },
+    {
+      "id": 3,
+      "name": "Health on Apple Watch",
+      "route": "/shop/business"
+    },
+    {
+      "id": 4,
+      "name": "Health Records on iPhone and iPad",
+      "route": "/shop/business"
+    }
+  ]
+}

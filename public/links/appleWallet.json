@@ -1,0 +1,24 @@
+{
+  "Apple Wallet": [
+    {
+      "id": 1,
+      "name": "Wallet",
+      "route": "/wallet"
+    },
+    {
+      "id": 2,
+      "name": "Apple Card",
+      "route": "/wallet/card"
+    },
+    {
+      "id": 3,
+      "name": "Apple Play",
+      "route": "/wallet/play"
+    },
+    {
+      "id": 4,
+      "name": "Apple Cash",
+      "route": "/wallet/cash"
+    }
+  ]
+}

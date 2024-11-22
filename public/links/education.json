@@ -1,0 +1,19 @@
+{
+  "For Education": [
+    {
+      "id": 1,
+      "name": "Apple and Education",
+      "route": "/apple-business"
+    },
+    {
+      "id": 2,
+      "name": "Shop for K-12",
+      "route": "/shop/business"
+    },
+    {
+      "id": 3,
+      "name": "Shop for College",
+      "route": "/shop/business"
+    }
+  ]
+}

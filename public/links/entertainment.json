@@ -1,0 +1,49 @@
+{
+  "Entertainment": [
+    {
+      "id": 1,
+      "name": "Apple One",
+      "route": "/apple-one"
+    },
+    {
+      "id": 2,
+      "name": "Apple Tv+",
+      "route": "/apple-tv-plus"
+    },
+    {
+      "id": 3,
+      "name": "Apple Music",
+      "route": "/apple-music"
+    },
+    {
+      "id": 4,
+      "name": "Apple Arcade",
+      "route": "/apple-arcade"
+    },
+    {
+      "id": 5,
+      "name": "Apple Fitness+",
+      "route": "/apple-fitness-plus"
+    },
+    {
+      "id": 6,
+      "name": "Apple News+",
+      "route": "/apple-news"
+    },
+    {
+      "id": 7,
+      "name": "Apple Podcasts",
+      "route": "/apple-podcasts"
+    },
+    {
+      "id": 8,
+      "name": "Apple Books",
+      "route": "/apple-books"
+    },
+    {
+      "id": 9,
+      "name": "Apple Store",
+      "route": "/store"
+    }
+  ]
+}

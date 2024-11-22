@@ -1,0 +1,12 @@
+.home {
+  width:auto;
+  height:100vh;
+  background-color: #e96666;}
+
+
+.home .banner {
+  width:100vw;
+  max-height:75vh;
+  height:auto;
+  background-color:whitesmoke;
+}

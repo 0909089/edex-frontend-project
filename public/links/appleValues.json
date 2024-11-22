@@ -1,0 +1,39 @@
+{
+  "Apple Values": [
+    {
+      "id": 1,
+      "name": "Accessibility",
+      "route": "apple/values/accessibility"
+    },
+    {
+      "id": 2,
+      "name": "Education",
+      "route": "/apple/values/education"
+    },
+    {
+      "id": 3,
+      "name": "Environment",
+      "route": "apple/values/environment"
+    },
+    {
+      "id": 4,
+      "name": "Inclusion and Diversity",
+      "route": "/apple/values/inclusion-diversity"
+    },
+    {
+      "id": 5,
+      "name": "Privacy",
+      "route": "apple/values/privacy"
+    },
+    {
+      "id": 6,
+      "name": "Racial Equity and Justice",
+      "route": "/apple/values/racial-equity-and-justice"
+    },
+    {
+      "id": 7,
+      "name": "Supply Chain",
+      "route": "/apple/values/supply-chain"
+    }
+  ]
+}

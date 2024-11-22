@@ -1,0 +1,39 @@
+{
+  "Apple Values": [
+    {
+      "id": 1,
+      "name": "Newsroom",
+      "route": "/about/newsroom"
+    },
+    {
+      "id": 2,
+      "name": "Apple Leadership",
+      "route": "/about/apple-leadership"
+    },
+    {
+      "id": 3,
+      "name": "Career Opportunities",
+      "route": "about/career/opportunities"
+    },
+    {
+      "id": 4,
+      "name": "Investors",
+      "route": "/about/investors"
+    },
+    {
+      "id": 5,
+      "name": "Ethics & Complaints",
+      "route": "/about/ethics-complaints"
+    },
+    {
+      "id": 6,
+      "name": "Events",
+      "route": "/about/events"
+    },
+    {
+      "id": 7,
+      "name": "Contact Apple",
+      "route": "/about/contact-apple"
+    }
+  ]
+}

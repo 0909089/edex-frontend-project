@@ -1,0 +1,59 @@
+{
+  "Shop and Learn": [
+    {
+      "id": 1,
+      "name": "Store",
+      "route": "/store"
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "route": "/mac"
+    },
+    {
+      "id": 3,
+      "name": "iPad",
+      "route": "/ipad"
+    },
+    {
+      "id": 4,
+      "name": "iPhone",
+      "route": "/iphone"
+    },
+    {
+      "id": 5,
+      "name": "Watch",
+      "route": "/watch"
+    },
+    {
+      "id": 6,
+      "name": "Vision",
+      "route": "/vision"
+    },
+    {
+      "id": 7,
+      "name": "AirPods",
+      "route": "/airpods"
+    },
+    {
+      "id": 8,
+      "name": "TV & Home",
+      "route": "/tv-home"
+    },
+    {
+      "id": 9,
+      "name": "AirTag",
+      "route": "/airtag"
+    },
+    {
+      "id": 10,
+      "name": "Accessories",
+      "route": "/accessories"
+    },
+    {
+      "id": 11,
+      "name": "Gift Cards",
+      "route": "/gift-cards"
+    }
+  ]
+}

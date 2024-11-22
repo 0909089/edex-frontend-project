@@ -1,0 +1,9 @@
+.linkStyle {
+  font-size:12px;
+  text-decoration: none;
+  color:var(--text-primary-color);
+}
+.linkStyle:hover {
+  color:var(--text-secondary-color);
+  transition: all 250ms ease-in-out;
+}

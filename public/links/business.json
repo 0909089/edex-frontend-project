@@ -1,0 +1,14 @@
+{
+  "For Business": [
+    {
+      "id": 1,
+      "name": "Apple and Business",
+      "route": "/apple-business"
+    },
+    {
+      "id": 2,
+      "name": "Shop for Business",
+      "route": "/shop/business"
+    }
+  ]
+}
