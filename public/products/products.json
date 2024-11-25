@@ -41,6 +41,46 @@
   },
   {
     "id": 5,
+    "type": "video",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Avengers",
+    "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
+    "contentAlignment": "center",
+    "src": "./products/img-1.png"
+  },
+  {
+    "id": 6,
+    "type": "image",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Mac Book",
+    "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
+    "contentAlignment": "end",
+    "src": "./products/mac-book.png"
+  },
+  {
+    "id": 7,
+    "type": "video",
+    "mainTitle": "",
+    "productTitle": "",
+    "productSubtitle": "Silo",
+    "productDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda, vitae!",
+    "contentAlignment": "left",
+    "src": "./products/silo.png"
+  },
+  {
+    "id": 8,
+    "type": "video",
+    "mainTitle": "Apple immersive",
+    "productTitle": "",
+    "productSubtitle": "John Wick 3",
+    "productDescription": "Relentless assassin battles global bounty hunters for survival and redemption.",
+    "contentAlignment": "end",
+    "src": "./products/john-wick.png"
+  },
+  {
+    "id": 9,
     "type": "image",
     "mainTitle": "",
     "productTitle": "",
@@ -48,45 +88,5 @@
     "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
     "contentAlignment": "center",
     "src": "./products/ipad-air.png"
-  },
-  {
-    "id": 6,
-    "type": "image",
-    "mainTitle": "",
-    "productTitle": "",
-    "productSubtitle": "Ipad Air",
-    "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
-    "contentAlignment": "end",
-    "src": "./products/ipad-air.png"
-  },
-  {
-    "id": 7,
-    "type": "image",
-    "mainTitle": "",
-    "productTitle": "",
-    "productSubtitle": "Mac Book",
-    "productDescription": "Powerful Mac book with M2 chip, vibrant display, productivity features.",
-    "contentAlignment": "left",
-    "src": "./products/mac-book.png"
-  },
-    {
-      "id": 8,
-      "type": "video",
-      "mainTitle": "Apple immersive",
-      "productTitle": "",
-      "productSubtitle": "John Wick 3",
-      "productDescription": "Relentless assassin battles global bounty hunters for survival and redemption.",
-      "contentAlignment": "end",
-      "src": "./products/john-wick.png"
-    },
-    {
-      "id": 9,
-      "type": "image",
-      "mainTitle": "",
-      "productTitle": "",
-      "productSubtitle": "Ipad Air",
-      "productDescription": "Powerful iPad Air with M2 chip, vibrant display, productivity features.",
-      "contentAlignment": "center",
-      "src": "./products/ipad-air.png"
-    }
+  }
 ]

@@ -35,7 +35,7 @@ function FooterNavigations() {
     
   }, []);
 
-  return <div className="wrapper py-3 p-0 m-0 bg-light text-danger w-100 d-flex justify-content-around align-items-start flex-wrap">
+  return <div className="py-3 p-0 m-0 bg-light text-danger w-100 d-flex justify-content-around align-items-start flex-wrap">
       <div className="m-0 p-0">
         <VNavLinks links={shopLinks} />
         <VNavLinks links={appleWalletLinks} />

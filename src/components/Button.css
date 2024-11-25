@@ -1,5 +1,4 @@
 .btn:hover {
-  opacity: 0.8;
+  opacity: 0.9;
   transition: all 250ms ease-in;
-  transform: scale(1.01);
 }

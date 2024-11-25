@@ -1,0 +1,33 @@
+.item .content h4 {
+  position: absolute;
+  bottom:1rem;
+  left:1rem;
+}
+
+.content .hover-state {
+  display:none;
+  opacity: 0;
+  transition: 0.1s all linear;
+}
+
+.content:hover .hover-state {
+  display:block;
+  opacity: 1;
+  transition: 250ms all linear;
+}
+
+.marqued-slider {
+  animation: scroll 40s linear infinite;
+}
+.marqued-slider:hover {
+  animation-play-state: paused;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-417px * 6))
+  }
+}

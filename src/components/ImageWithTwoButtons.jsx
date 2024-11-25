@@ -3,15 +3,13 @@ import Button from "./Button";
 
 function ImageWithTwoButtons({ item }) {
   const mainTitle = { fontSize: "1.2rem" };
-  const productTitle = { fontSize: "2.5rem" };
-  const productTitle2 = { fontSize: "5rem" };
-
-  console.log(item.contentAlignment);
+  const productTitle = { fontSize: "1.5rem" };
+  const productTitle2 = { fontSize: "1.8rem" };
 
   return (
     <div className="w-100 h-100">
       <div
-        className={`bg-image w-100 text-light h-100 py-5 text-light
+        className={`bg-image w-100 text-light h-100 py-5 text-light px-5
       d-flex justify-content-${item.contentAlignment
         ? item.contentAlignment
         : "center"} align-items-center flex-column text-uppercase`}
@@ -25,7 +23,7 @@ function ImageWithTwoButtons({ item }) {
         }}
       >
         <h4
-          className="main-title text-capitalize fw-semibold h4"
+          className="main-title text-capitalize fw-semibold"
           style={mainTitle}
         >
           {item.type == "video" ? item.mainTitle : ""}
@@ -36,9 +34,12 @@ function ImageWithTwoButtons({ item }) {
         <h1 className="h1 product-subtitle" style={productTitle2}>
           {item.productSubtitle}
         </h1>
-        <p className="product-description text-lowercase h5">
+        <p className="product-description text-lowercase h5 text-wrap text-center">
           {item.productDescription.length > 75
-            ? item.productDescription.substring(0, 75) + "..."
+            ? item.productDescription.substring(
+                0,
+                window.screen.width < 998 ? 35 : 75
+              ) + "..."
             : item.productDescription}
         </p>
 

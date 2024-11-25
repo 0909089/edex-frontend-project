@@ -1,0 +1,30 @@
+.carousel-container {
+  height: auto;
+  background-color: black;
+
+}
+.carousel-container .slider::-webkit-scrollbar {
+  /* appearance: none; */
+}
+.carousel-container .slider {
+  width:auto;
+  margin:0 auto;
+  max-height:100vh;
+  min-height:50vh;
+  overflow-x: scroll;  /* margin-left:-25vw; */
+}
+.carousel-container div.indicator:hover {
+  transition: all 250ms linear;
+  cursor: pointer;
+  color:#cccccc;
+}
+
+.carousel-container .slide {
+  width:100%;
+  max-width:1200px;
+}
+.carousel-container .slider .content {
+  position:absolute;
+  bottom: 2rem;
+  left:2rem;
+}

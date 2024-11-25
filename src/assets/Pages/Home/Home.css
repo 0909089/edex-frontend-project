@@ -8,5 +8,5 @@
   width:100vw;
   max-height:75vh;
   height:auto;
-  background-color:whitesmoke;
+  background-color:var(--brand-primary-color);
 }

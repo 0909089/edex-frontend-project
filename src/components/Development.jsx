@@ -18,7 +18,7 @@ function Development() {
       <h2 className="h1 fw-semibold mt-5">This page is under the development</h2>
 
       <Button text='Go back' bgColor={'black'} fgColor={'white'} onClick={()=> navigate(-1)}></Button>
-
+  
     </div>
     <Footer></Footer>
     </>

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Slow horses",
+    "type": "movie",
+    "category": "Thriller",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, saepe?",
+    "imageSrc": "https://is1-ssl.mzstatic.com/image/thumb/S2T1FMcov5a0GzmninlU4Q/980x551.jpg",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/9K4820tYJgYYE_Q7JwcFgA/548x116.png"
+  },
+  {
+    "id": 2,
+    "title": "Blitz",
+    "type": "movie",
+    "category": "Drama",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, saepe?",
+    "imageSrc": "https://is1-ssl.mzstatic.com/image/thumb/t0ZBZJdSQL6-uGE65O5Q2A/980x551.jpg",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/8RHQYwf7HNWxhQRqMBVXEA/548x100.png"
+  },
+  {
+    "id": 3,
+    "title": "Silo",
+    "type": "music",
+    "category": "Sci-Fi",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, saepe?",
+    "imageSrc": "https://is1-ssl.mzstatic.com/image/thumb/LEDx4gCVQd_lTJt81zQq8w/980x551.jpg",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/w6iOdqXGZLugnUgKmWZp0g/548x97.png"
+  },
+  {
+    "id": 4,
+    "title": "Bad sisters",
+    "type": "movie",
+    "category": "Psychology",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, saepe?",
+    "imageSrc": "https://is1-ssl.mzstatic.com/image/thumb/BtE1Nd7nlabOZ4pkGzee3g/980x551.jpg",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/I8biBb5qUc3po5ZKBvI1ig/548x181.png"
+  },
+  {
+    "id": 5,
+    "title": "Shrinking",
+    "type": "music",
+    "category": "Horror",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, saepe?",
+    "imageSrc": "https://is1-ssl.mzstatic.com/image/thumb/C34jADlGtR5wObjPAMbW4w/980x551.jpg",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/lvZ2b3skKnno7C-36QvFrg/548x71.png"
+  }
+]

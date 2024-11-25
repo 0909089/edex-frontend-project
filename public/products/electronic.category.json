@@ -1,0 +1,70 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 2,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 3,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 4,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 5,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 6,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 7,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 8,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 9,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 10,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    },
+    {
+      "id": 11,
+      "title": "Mac",
+      "icon": "/apple-logo.png",
+      "route": "/products/view/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+.product-heading .gradient-title 
+{
+  background:linear-gradient(to right, #138bf7, #fc20a7);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.section-wrapper {
+  max-width:85%;
+  margin:0 auto;
+  padding:100px 0;
+  font-family: 'Poppins';
+}
+
+.anouncement {
+  background-color:white;
+}
+
+.gradient-background  {
+  position: relative;
+  width:100%;
+  height:7vh;
+  opacity: 0.4;
+  background:linear-gradient(to right, #ffffff79 , #138bf7, #6251ff, #f71385, #fce620, #f74813, #ffffff63);
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  /* filter: blur(0.1); */
+}
+.gradient-background::after {
+  position: absolute;
+  bottom:-2vh;
+  content:'';
+  width:100vw;
+  height:5vh;
+  background:white;
+  filter:blur(10px);
+  border-bottom-left-radius:50%;
+  border-bottom-right-radius:50%;
+}

@@ -1,12 +1,11 @@
 import axios from "axios";
 
 export const fetchData = (url, func) => {
-  console.log("Function called");
-
   axios
     .get(url)
     .then(res => {
       if (res.status == "200") {
+        console.log("Data fetched successfully");
         func(res.data);
       }
     })
